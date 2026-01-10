@@ -1,4 +1,4 @@
-#Print the sum of all niumbers from 1 to n
+#Print the sum of all numbers from 1 to n
 
 sum = 0
 num = int(input("Enter a number: "))
